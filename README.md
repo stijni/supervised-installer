@@ -10,8 +10,6 @@ By not using the Home Assistant Operating System, the user is responsible for ma
 
 This method is considered advanced and should only be used if one is an expert in managing a Linux operating system, Docker and networking.
 
-**If you have issues, don't report this to us. You are responsible for your system if you use this installer.**
-
 ## Installation
 
 Run as root (sudo su):
@@ -54,4 +52,4 @@ curl -sL https://raw.githubusercontent.com/home-assistant/supervised-installer/m
 
 ## Troubleshooting
 
-If somethings going wrong, use `journalctl -f` to get your system logs. If you are not familiar with Linux and how you can fix issues, we recommend do use our Home Assistant OS.
+If somethings going wrong, use `journalctl -f` to get your system logs. If you are not familiar with Linux and how you can fix issues, we recommend to use our Home Assistant OS.
